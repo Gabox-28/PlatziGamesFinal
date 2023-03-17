@@ -26,9 +26,10 @@
 
 .articulo--principal {
 	max-width: 660px;
-	margin: 0 auto;
+	margin: 50px auto;
 	&__intro {
 		font-size: 25px;
+
 	}	
 	h3 {
 		color: $color-secundario;
